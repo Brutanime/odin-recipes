@@ -1,0 +1,76 @@
+body {
+    background-color: blue;
+}
+
+div {
+
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: lightgoldenrodyellow;
+    font-weight: 800;
+}
+
+.RisottoPhotoChanges {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.SalmonChanges {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.SteakChanges {
+    display:block;
+    width: 33%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    font-size: 24px;
+    font-family: fantasy;
+    color: crimson;
+}
+
+h1 {
+    text-align: center;
+    font-weight: 800;
+}
+
+.btn1
+ {
+   display: inline-block;
+   background-color:black;
+   color: white;    
+   padding: 20px;
+   text-align: center;
+   border: 4px double #cccccc;
+   border-radius: 10px;
+   font-size: 28px;
+}
+
+.btn2 {  
+    display: inline-block;
+   background-color:black;
+   color: white;    
+   padding: 20px;
+   text-align: center;
+   border: 4px double #cccccc;
+   border-radius: 10px;
+   font-size: 28px;  
+
+}
+
+.btn3 { 
+    display: inline-block;
+   background-color:black;
+   color: white;    
+   padding: 20px;
+   text-align: center;
+   border: 4px double #cccccc;
+   border-radius: 10px;
+   font-size: 28px;
+}
